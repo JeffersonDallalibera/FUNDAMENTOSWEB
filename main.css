@@ -1,0 +1,10 @@
+body {
+
+   background-color: black;
+}
+.card{
+    margin: 55px;
+}
+.card img{
+    height: 310px;
+}
